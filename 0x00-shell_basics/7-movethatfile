@@ -1,2 +1,2 @@
 #!/bin/bash
-mv tmp/tmp/my_frist_directory/betty
+mv  betty /tmp/my_frist_directory
